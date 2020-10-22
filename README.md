@@ -1,6 +1,6 @@
 # ryakugo-dict
 
-「とく＝ておく」のような略語の語彙で左文脈idと右文脈idが異なるように上書きするMeCab用ユーザ辞書です。
+「とく＝ておく」のような略語の語彙で左文脈idが「て」のもの、右文脈idが「おく」のものとなるように上書きするMeCab用ユーザ辞書です。
 
 A user dictionary csv file for MeCab which contains ryakugo data with different left and right attribute id.
 
